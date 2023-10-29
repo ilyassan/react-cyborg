@@ -1,0 +1,12 @@
+.live-stream-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: var(--margin-primary);
+}
+
+.profileButton{
+    text-align: center;
+    margin: var(--margin-primary) 0 0;
+}

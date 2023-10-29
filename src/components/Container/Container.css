@@ -1,0 +1,24 @@
+.main-container{
+    padding: var(--padding-primary);
+    background-color: var(--color-dark);
+    border-radius: var(--border-raduis-primary);
+
+    color: var(--color-light);
+}
+
+
+.main-container > div:not(:first-child){
+    margin-top: var(--margin-primary);
+}
+.main-container .row .section-wrapper{
+    padding: calc( var(--padding-primary) / 2);
+}
+
+@media (max-width:992px) {
+    .main-container .row > div:not(:first-child){
+        margin-top: var(--margin-primary);
+    }
+    .main-container > div:not(.row){
+        padding: calc( var(--padding-primary) / 2);
+    }
+}

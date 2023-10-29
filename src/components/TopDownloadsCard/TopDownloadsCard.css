@@ -1,0 +1,40 @@
+.top-downloads-card ul{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.top-downloads-card img{
+    width: 100%;
+    min-width: 80px;
+    border-radius: var(--border-raduis-secondary);
+}
+.top-downloads-card li:first-child{
+    margin-right: 10px;
+}
+.top-downloads-card li{
+    width: 100px;
+}
+
+.top-downloads-card .starIcon{
+    color: var(--color-icons);
+}
+.top-downloads-card .downloadIcon{
+    color: var(--color-primary);
+    cursor: pointer;
+}
+.top-downloads-card .category{
+    color: var(--color-gray);
+}
+
+
+@media (max-width: 500px) {
+    .top-downloads-card ul{
+        padding: 0;
+    } 
+    .top-downloads-card .title{
+        font-size: 1rem;
+    }
+    .top-downloads-card .category{
+        font-size: .8rem;
+    }
+}

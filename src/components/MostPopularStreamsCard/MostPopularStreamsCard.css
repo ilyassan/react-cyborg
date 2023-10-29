@@ -1,0 +1,36 @@
+.stream-card{
+    margin-top: 0 !important;
+    max-width: 250px;
+}
+
+.stream-card-thumb{
+    width: 100%;
+}
+.stream-card-thumb img{
+    border-radius: var(--border-raduis-primary);
+    width: 100%;
+}
+
+.stream-card-down{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: calc( var(--margin-secondary) / 2);
+}
+.stream-card-down img{
+    border-radius: 50%;
+}
+.stream-card-down svg{
+    color: #fff;
+    background-color: #ec6090;
+    border-radius: 50%;
+    font-size: 16px;
+    padding: 2px;
+    margin-right: 3px;
+}
+
+@media (max-width: 768px) {
+    .stream-card-down{
+        margin-top: calc( var(--margin-secondary) / 4);
+    }    
+}

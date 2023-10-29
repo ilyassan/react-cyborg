@@ -1,0 +1,4 @@
+.profile-hr{
+    margin: var(--margin-secondary) 0;
+    color: var(--color-gray);
+}

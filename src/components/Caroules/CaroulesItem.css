@@ -1,0 +1,30 @@
+.carousel-item{
+    height: 100%;
+    text-align: center;
+    margin-top: var(--margin-primary);
+}
+.carousel-item img{
+    max-width: 200px;
+    border-radius: var(--border-raduis-primary);
+}
+.carousel-item .image{
+    display: grid;
+    place-items: center;
+    margin-bottom: calc( var(--margin-primary) / 2);
+}
+.carousel-item .details{
+    color: var(--color-light);
+}
+.carousel-item .details h4{
+    font-weight: var(--font-weight-bold);
+}
+.carousel-item .details span{
+    color: var(--color-gray);
+}
+
+
+@media (max-width: 994px) {
+    .carousel-item img{
+        max-width: 250px;
+    }
+}

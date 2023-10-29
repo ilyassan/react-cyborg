@@ -1,0 +1,9 @@
+.stream-cards{
+    margin-top: var(--margin-secondary);
+}
+
+@media (max-width: 992px) {
+    .stream-cards{
+        row-gap: calc(var(--margin-secondary) / 2);
+    }    
+}

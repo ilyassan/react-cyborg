@@ -1,0 +1,7 @@
+.card-wrapper {
+    background-color: var(--color-dark);
+    border-radius: var(--border-raduis-secondary);
+    padding: calc( var(--padding-primary) / 2 );
+    margin: calc( var(--margin-secondary) / 4 );
+    height: 95%;
+}

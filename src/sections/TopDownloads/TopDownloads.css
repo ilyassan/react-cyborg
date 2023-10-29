@@ -1,0 +1,7 @@
+.top-downloads-cards{
+    height: calc(100% - 43.2px);
+    display: flex;
+    flex-direction: column;
+    padding: var(--padding-primary) 0;
+    justify-content: space-between;
+}

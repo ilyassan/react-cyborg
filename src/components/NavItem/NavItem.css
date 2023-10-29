@@ -1,0 +1,19 @@
+.nav-item a{
+    padding-left: calc( var(--padding-primary) / 4 );
+    padding-right: calc( var(--padding-primary) / 4 );
+}
+
+.nav-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-item.profile{
+    padding: 5px 10px;
+    background-color: var(--color-dark);
+    border-radius: var(--border-raduis-primary);
+}
+.nav-item.profile img{
+    border-radius: 50%;
+}
