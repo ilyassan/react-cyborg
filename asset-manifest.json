@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-cyborg/static/css/main.5382b49d.css",
+    "main.js": "/react-cyborg/static/js/main.d82856aa.js",
+    "static/media/profile.jpg": "/react-cyborg/static/media/profile.7e220d8a749ff31feac9.jpg",
+    "static/media/banner-bg.jpg": "/react-cyborg/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/featured-01.jpg": "/react-cyborg/static/media/featured-01.b180f723012eb23f2e61.jpg",
+    "static/media/stream-03.jpg": "/react-cyborg/static/media/stream-03.336b12d2d102e9ff76bc.jpg",
+    "static/media/stream-02.jpg": "/react-cyborg/static/media/stream-02.b64e603f464b9cc61f7b.jpg",
+    "static/media/featured-03.jpg": "/react-cyborg/static/media/featured-03.d25f81628b876881546e.jpg",
+    "static/media/clip-01.jpg": "/react-cyborg/static/media/clip-01.42331eaf604300282321.jpg",
+    "static/media/stream-04.jpg": "/react-cyborg/static/media/stream-04.2df8532eaa2c5d338af1.jpg",
+    "static/media/featured-02.jpg": "/react-cyborg/static/media/featured-02.d00731eac8563842caa6.jpg",
+    "static/media/popular-06.jpg": "/react-cyborg/static/media/popular-06.193c1358cf48df9af86f.jpg",
+    "static/media/popular-08.jpg": "/react-cyborg/static/media/popular-08.126dd98013f11709e815.jpg",
+    "static/media/stream-01.jpg": "/react-cyborg/static/media/stream-01.36584b59614930e69acd.jpg",
+    "static/media/clip-04.jpg": "/react-cyborg/static/media/clip-04.f8a52b63ce2c72e3626d.jpg",
+    "static/media/popular-02.jpg": "/react-cyborg/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
+    "static/media/popular-01.jpg": "/react-cyborg/static/media/popular-01.d591ee7091c3349e3472.jpg",
+    "static/media/clip-03.jpg": "/react-cyborg/static/media/clip-03.305908a1b11aa23b0641.jpg",
+    "static/media/popular-04.jpg": "/react-cyborg/static/media/popular-04.b68fb4322ccb2976873d.jpg",
+    "static/media/clip-02.jpg": "/react-cyborg/static/media/clip-02.cdeda10232699818b045.jpg",
+    "static/media/popular-07.jpg": "/react-cyborg/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
+    "static/media/popular-00.jpg": "/react-cyborg/static/media/popular-00.836b09f9a8380f060727.jpg",
+    "static/media/popular-03.jpg": "/react-cyborg/static/media/popular-03.1c8955f99df2b3b94391.jpg",
+    "index.html": "/react-cyborg/index.html",
+    "main.5382b49d.css.map": "/react-cyborg/static/css/main.5382b49d.css.map",
+    "main.d82856aa.js.map": "/react-cyborg/static/js/main.d82856aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5382b49d.css",
+    "static/js/main.d82856aa.js"
+  ]
+}
