@@ -1,6 +1,10 @@
-# react-cyborg
+# React Cyborg
 
 Cyborg Website is a project showcasing a modern, futuristic website built with React.js
+
+## Why Did I Build This?
+
+My goal was to learn React.js and start developing modern frontend websites. The decision to use React was driven by its popularity and its potential to open the way for learning Next.js in the future.
 
 ## Features
 
